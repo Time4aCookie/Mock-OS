@@ -5,8 +5,6 @@ A user of this mock operating system will be able to
 create and interact with files using commands.
 
 ## Directory structure
-The directory structure aims to follow best practices,
-so it will look similar to many C++ projects in the real world.
 
 The idea is to separate the public interface from its implementation.
 
